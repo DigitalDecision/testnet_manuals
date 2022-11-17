@@ -3,14 +3,15 @@
 
 ____
 
-#Set up monitoring and alerting for celestia validator
-##Prerequisites
-###Install exporters on validator node
+# Set up monitoring and alerting for celestia validator
+## Prerequisites
+### Install exporters on validator node
 First of all you will have to install exporters on validator node. For that you can use one-liner below
 ____
+
 ```
 wget -O install_exporters.sh https://raw.githubusercontent.com/DigitalDecision/testnet_manuals/main/celestia/celestia.sh && chmod +x celestia.sh && ./celestia.sh
-KEY	VALUE
+```
 bond_denom	Denominated token name, for example, utia for celestia testnet. You can find it in genesis file
 bench_prefix	Prefix for chain addresses, for example, tori for celestia testnet. You can find it in public addresses like this torivaloper1zyyz4m9ytdf60fn9yaafx7uy7h463n7alv2ete
 rpc_port	Your validator rpc port that is defined in config.toml file. Default value for celestia is 19657
