@@ -12,21 +12,8 @@ ____
 ```
 wget -O install_exporters.sh https://raw.githubusercontent.com/DigitalDecision/testnet_manuals/main/celestia/celestia.sh && chmod +x celestia.sh && ./celestia.sh
 ```
-bond_denom	Denominated token name, for example, utia for celestia testnet. You can find it in genesis file
-bench_prefix	Prefix for chain addresses, for example, tori for celestia testnet. You can find it in public addresses like this torivaloper1zyyz4m9ytdf60fn9yaafx7uy7h463n7alv2ete
-rpc_port	Your validator rpc port that is defined in config.toml file. Default value for celestia is 19657
-grpc_port	Your validator grpc port that is defined in app.toml file. Default value for celestia is 19090
-make sure following ports are open:
-
-9100 (node-exporter)
-9300 (cosmos-exporter)
-prometheus metrics should be enabled and port 26660 should be available on validator instance
-
-To enable prometheus you have to run command below and after that please restart service to apply changes
-
-# enable prometheus
-sed -i -e "s/prometheus = false/prometheus = true/" $HOME/.celestia-app/config/config.toml
-Deployment
+# Deployment
+_____
 Monitoring stack needs to be deployed on seperate machine to be able to notify in case if validator goes down! To run monitoring stack you dont need beastly server with multiple cores. It will be more than enough to run it on smallest available vps
 
 System requirements
