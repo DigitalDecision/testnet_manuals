@@ -1,6 +1,5 @@
-Deploy your VPS using our referral link to get 100$ free bonus for 60 days 
 
-Deploy your VPS using our referral link to get 100$ free bonus 
+![image](https://user-images.githubusercontent.com/58205039/202496987-fe18234c-19eb-4d7f-aa4b-574ff8bcb4c5.png)
 
 
 
