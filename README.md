@@ -4,3 +4,4 @@
 
 ![image](https://user-images.githubusercontent.com/58205039/201987126-be7250f3-e096-43db-855d-ba2ec8b7f8a1.png)
 
+![на-прозрачном-фоне-png](https://user-images.githubusercontent.com/58205039/202909802-9f259d8a-ebc9-4128-958e-4e506a12d40e.png)
