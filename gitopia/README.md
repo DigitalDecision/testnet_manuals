@@ -1,4 +1,5 @@
-![на-прозрачном-фоне-png](https://user-images.githubusercontent.com/58205039/202901606-ce094fb7-23d9-40f2-9249-3a029c1d1d5c.png)
+
+![лого_гитопия](https://user-images.githubusercontent.com/58205039/202903558-28a84159-3e7f-4fe1-8839-e8e071a9ef36.png)
 
 # Gitopia - gitopia-janus-testnet-2
 ____
