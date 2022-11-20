@@ -1,4 +1,5 @@
-![на-прозрачном-фоне-png](https://user-images.githubusercontent.com/58205039/202901606-ce094fb7-23d9-40f2-9249-3a029c1d1d5c.png)
+
+![Okp4_logo](https://user-images.githubusercontent.com/58205039/202905030-7e03f289-d75c-4f19-afa7-ff744e96ee5a.png)
 
 # OKP4 - okp4-nemeton
 ____
