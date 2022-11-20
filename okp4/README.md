@@ -2,7 +2,7 @@
 
 # OKP4 - okp4-nemeton
 ____
-[Documentation](https://docs.gitopia.com/installation/index.html)
+[Documentation](https://docs.okp4.network/nodes/run-node)
 ## Hardware Requirements
 + 8x CPUs; the faster clock speed the better
 + 64GB RAM
