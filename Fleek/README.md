@@ -1,5 +1,5 @@
-[image](https://user-images.githubusercontent.com/58205039/212378889-b6849104-24a2-4f7b-bd3e-7d834e521eee.png)
-![Okp4_logo](https://user-images.githubusercontent.com/58205039/212378889-b6849104-24a2-4f7b-bd3e-7d834e521eee.png)
+
+![Fleek logo](https://user-images.githubusercontent.com/58205039/212378889-b6849104-24a2-4f7b-bd3e-7d834e521eee.png)
 
 # Fleek - KademliaEvent
 ____
