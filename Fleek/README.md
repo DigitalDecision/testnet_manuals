@@ -1,8 +1,8 @@
-![лого_гитопия](![image](https://user-images.githubusercontent.com/58205039/212378889-b6849104-24a2-4f7b-bd3e-7d834e521eee.png))
+[image](https://user-images.githubusercontent.com/58205039/212378889-b6849104-24a2-4f7b-bd3e-7d834e521eee.png)
 
 # Fleek - KademliaEvent
 ____
-[Documentation](https://docs.gitopia.com/installation/index.html)
+[Documentation](https://blog.fleek.co/posts/fleek-network-node-health-check-guide)
 ## Hardware Requirements
 + 8x CPUs; the faster clock speed the better
 + 64GB RAM
