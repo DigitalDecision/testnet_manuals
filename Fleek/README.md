@@ -5,9 +5,9 @@
 ____
 [Documentation](https://blog.fleek.co/posts/fleek-network-node-health-check-guide)
 ## Hardware Requirements
-+ 8x CPUs; the faster clock speed the better
-+ 64GB RAM
-+ 50Gb of storage (SSD or NVME)
++ 4x CPUs; the faster clock speed the better
++ 8GB RAM
++ 160Gb of storage (SSD or NVME)
 
 ## Tools
 ____
