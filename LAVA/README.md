@@ -1,4 +1,4 @@
-![Okp4_logo](https://user-images.githubusercontent.com/58205039/202905030-7e03f289-d75c-4f19-afa7-ff744e96ee5a.png)
+![Okp4_logo](![image](https://user-images.githubusercontent.com/58205039/212494991-f94f5c2b-fd0a-4547-8f3a-3f2903b8bc46.png))
 
 # OKP4 - okp4-nemeton
 ____
