@@ -17,7 +17,7 @@ ___
 ### Setup Enviroment
 ``` bash
 apt update && apt upgrade && \
-apt install curl iptables build-essential git wget jq make gcc nano tmux htop nvme-cli pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev -y
+apt install curl iptables build-essential git wget jq make cmake gcc nano tmux htop nvme-cli pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev -y
 ```
 ### Go
 ___
