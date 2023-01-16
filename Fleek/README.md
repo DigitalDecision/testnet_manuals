@@ -19,7 +19,7 @@ ___
 ### Setup Enviroment
 ``` bash
 apt update && apt upgrade && \
-apt install curl iptables build-essential git wget jq make gcc nano tmux htop nvme-cli pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev -y
+apt install curl iptables build-essential git wget jq make cmake gcc nano tmux htop nvme-cli pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev -y
 ```
 ### Rust
 ___
@@ -59,8 +59,8 @@ EOF
 ____
 ```
 sudo systemctl daemon-reload && \
-sudo systemctl enable fleek && \
-sudo systemctl restart fleek && journalctl -n 100 -f -u fleek -o cat
+sudo systemctl enable fleekd && \
+sudo systemctl restart fleekd && journalctl -n 100 -f -u fleekd -o cat
 ```
 
 
